@@ -1,0 +1,10 @@
+C:\Users\Artur\Desktop\Nauka\Programowanie komponentowe\Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\Nauka\Programowanie komponentowe\Saper\Saper\obj\Debug\Saper.FormMainWindows.resources
+C:\Users\Artur\Desktop\Nauka\Programowanie komponentowe\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+C:\Users\Artur\Desktop\Nauka\Programowanie komponentowe\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+C:\Users\Artur\Desktop\Nauka\Programowanie komponentowe\Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\Nauka\Programowanie komponentowe\Saper\Saper\bin\Debug\Saper.exe.config
+C:\Users\Artur\Desktop\Nauka\Programowanie komponentowe\Saper\Saper\bin\Debug\Saper.exe
+C:\Users\Artur\Desktop\Nauka\Programowanie komponentowe\Saper\Saper\bin\Debug\Saper.pdb
+C:\Users\Artur\Desktop\Nauka\Programowanie komponentowe\Saper\Saper\obj\Debug\Saper.exe
+C:\Users\Artur\Desktop\Nauka\Programowanie komponentowe\Saper\Saper\obj\Debug\Saper.pdb
